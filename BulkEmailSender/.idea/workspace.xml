@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="108420db-4caf-4be6-9b28-ea39c5ac8c98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BulkEmailSender.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/material-kit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/material-kit.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/material-kit.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/demo/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/bg7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/city-profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/examples/clem-onojegaw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/examples/clem-onojeghuo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/examples/cynthia-del-rio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/examples/mariya-georgieva.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/examples/olu-eletu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/examples/studio-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/examples/studio-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/examples/studio-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/examples/studio-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/examples/studio-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/camp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/card-profile1-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/card-profile2-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/card-profile4-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/card-profile5-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/card-profile6-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/christian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/kendall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/marc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/landing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/profile_city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/responsive-nav.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/core/bootstrap-material-design.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/core/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/core/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/material-kit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/material-kit.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/material-kit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/jquery.sharrre.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/nouislider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_badges.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_checkboxes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_core-bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_drawer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_example-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_footers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_headers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_info-areas.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_misc.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_pills.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_radios.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_ripples.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_switches.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_tabs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_togglebutton.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_navbar-align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/bootstrap/scss/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/cards/_card-carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/cards/_card-login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/cards/_card-plain.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_colored-shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_drawer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_navbar-colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_navs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/mixins/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/plugins/_plugin-datetime-picker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/plugins/_plugin-nouislider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_body.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_bootstrap-material-design-base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_bootstrap-material-design.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_brand.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_colors-map.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_drawer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_snackbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_state.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-kit/variables/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/tcl8.6/init.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_asyncio.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_bz2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes_test.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_decimal.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_distutils_findvs.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_elementtree.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_hashlib.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_lzma.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_msi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_multiprocessing.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_overlapped.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_socket.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_sqlite3.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_ssl.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testbuffer.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testcapi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testconsole.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testimportmultiple.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testmultiphase.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_tkinter.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/concrt140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/msvcp140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/msvcp140_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/msvcp140_2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pyexpat.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python36.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/select.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/tcl86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/tk86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/unicodedata.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/vccorlib140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/vcomp140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/winsound.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/xlwings32-0.15.3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/xlwings64-0.15.3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BulkEmailSender$BulkEmailSender.coverage" NAME="BulkEmailSender Coverage Results" MODIFIED="1553848490986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="e#26#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/flask/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="1798" selection-start-line="1798" selection-end-line="1798" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/email/_parseaddr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4267">
+              <caret line="251" selection-start-line="251" selection-end-line="251" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/flask/_compat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="88" column="6" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/DownloadMaterial/Template/mateial_kit/material-kit-html-v2.0.5/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15045">
+              <caret line="940" selection-start-line="940" selection-end-line="993" selection-end-column="37" />
+              <folding>
+                <element signature="n#div#1;n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#70548#70720#0" />
+                <element signature="e#70756#72166#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/DownloadMaterial/Template/mateial_kit/material-kit-html-v2.0.5/template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/static/</find>
+      <find>input</find>
+      <find>with flo</find>
+      <find>asset</find>
+      <find>body</find>
+      <find>Notifications</find>
+      <find>txtEmailHeader</find>
+      <find>txtEmailBody</find>
+      <find>input_div</find>
+      <find>recie</find>
+      <find>each</find>
+      <find>ValidateEmail</find>
+      <find>onchang</find>
+      <find>btn</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="170" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BulkEmailSender" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BulkEmailSender" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BulkEmailSender" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BulkEmailSender" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BulkEmailSender" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BulkEmailSender" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BulkEmailSender" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BulkEmailSender" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProjects\gitDigitalPostMan\DigitalPostMan\BulkEmailSender\static\assets\img" />
+      <recent name="D:\PythonProjects\BulkEmailSender\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BulkEmailSender" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="BulkEmailSender" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="108420db-4caf-4be6-9b28-ea39c5ac8c98" name="Default Changelist" comment="" />
+      <created>1552733948517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552733948517</updated>
+      <workItem from="1552733959060" duration="18560000" />
+      <workItem from="1553004060086" duration="2980000" />
+      <workItem from="1553007107314" duration="1230000" />
+      <workItem from="1553841774836" duration="6706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29476000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.13456091" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/assets/js/core/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/email/_parseaddr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4267">
+          <caret line="251" selection-start-line="251" selection-end-line="251" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/flask/_compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DownloadMaterial/Template/mateial_kit/material-kit-html-v2.0.5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15045">
+          <caret line="940" selection-start-line="940" selection-end-line="993" selection-end-column="37" />
+          <folding>
+            <element signature="n#div#1;n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#70548#70720#0" />
+            <element signature="e#70756#72166#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DownloadMaterial/Template/mateial_kit/material-kit-html-v2.0.5/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attachments/13260027_1047873638621718_8659837613966916836_n.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="1798" selection-start-line="1798" selection-end-line="1798" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#26#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="88" column="6" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
